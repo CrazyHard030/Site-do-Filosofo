@@ -1,0 +1,148 @@
+#navbar
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px; 
+}
+
+#cabeçalho
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    text-align: center; 
+}
+
+#rodape
+{
+    text-align: center;
+    color:#000;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 15px;
+    
+    padding-top: 2vmin;
+    padding-bottom: 2vmin;
+    border: 3px;
+    border-style: none;
+    background-color: #fffff7;
+}
+
+#texto 
+{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: justify;
+    font-size: 20px;
+    padding-top:5vmin;
+    padding-left:30vmin;
+    padding-right: 30vmin;
+    color:#fffff7;
+}
+
+#title
+{
+    color:rgb(173, 109, 19);
+    text-align: center;
+    font-size: 30px;
+}
+
+#sub1
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 25px;
+    color:black;
+    text-align: center;
+}
+#tier
+{
+    text-align: left;
+}
+
+#tabel_compra
+{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-align: justify;
+
+    padding-left:10vmin;
+    padding-top:3vmin;
+    padding-bottom:5vmin;
+    margin: 25px;
+
+}
+
+#Compra
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+    padding-left:10vmin;
+    padding-right:10vmin;
+    padding-top:5vmin;
+    padding-bottom:5vmin;
+    margin: 15px;
+
+    border: 10px;
+    border-style: groove;
+    border-color: darkgray;
+    border-top-width: 10px;
+    border-left-width: 15px;
+    border-right-width: 15px;
+}
+
+#login
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+
+    padding-left:10vmin;
+    padding-right:10vmin;
+    padding-top:5vmin;
+    padding-bottom:5vmin;
+    margin: 15px;
+
+    border: 10px;
+    border-style: groove;
+    border-color: darkgray;
+    border-top-width: 10px;
+    border-left-width: 15px;
+    border-right-width: 15px;
+}
+
+#cadastro
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 3vmin;
+    text-align: justify;
+    
+    padding-left:10vmin;
+    padding-right:10vmin;
+    padding-top:5vmin;
+    padding-bottom:5vmin;
+    margin: 15px;
+
+    border: 10px;
+    border-style: groove;
+    border-color: darkgray;
+    border-left-width: 15px;
+    border-right-width: 15px;
+}
+
+#lista
+{
+    font-family:'Times New Roman', Times, serif;
+    font-size: 25px;
+    color: black;
+    padding: 5%;
+}
+
+#link
+{
+    color:rgb(173, 109, 19);
+}
+
+#final
+{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 30px;
+    text-align: center;
+    padding: 5vmin;
+    padding-bottom: none;
+}
